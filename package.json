@@ -1,0 +1,34 @@
+{
+    "name": "doron",
+    "description": "Ghost Theme by Doron Segal",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Doron Segal",
+        "email": "doron2402@gmail.com",
+        "url": "https://segaldoron.com"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/doron2402/ghost-theme.git"
+    },
+    "bugs": "https://github.com/doron2402/ghost-theme/issues"
+}
